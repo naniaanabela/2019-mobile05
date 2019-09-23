@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">StarterChapter05</string>
+    <string name="btn_static_fragment">Contoh Static Fragment</string>
+    <string name="btn_dynamic_fragment">Contoh Dynamic Fragment</string>
 </resources>
